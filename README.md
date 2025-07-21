@@ -1,1 +1,3 @@
 # Book_Store
+
+Welcome to the New Book Store Management System project! This application is designed to streamline the management of a bookstore by providing an efficient and user-friendly interface for handling books, customers, orders, and inventory. The system allows administrators to add, update, and remove books, track stock levels, and manage customer information. Users can browse available books, view detailed descriptions, and place orders with ease. This project aims to improve the overall management process of a bookstore, reduce manual work, and enhance customer satisfaction by offering a seamless and modern digital experience.
